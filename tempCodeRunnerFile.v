@@ -1,0 +1,1 @@
+$display("TESTCASE %d: %d * %d = %d", i, a, b, answer);
