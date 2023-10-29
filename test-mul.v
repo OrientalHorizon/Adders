@@ -14,7 +14,7 @@
  *
  */
 
-`include "multiplier.v"
+`include "wallace-mul.v"
 
 module test_mul;
 	wire signed [31:0] answer;
